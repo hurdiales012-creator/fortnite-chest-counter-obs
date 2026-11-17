@@ -1,0 +1,12 @@
+{
+  "scene": "",
+  "source": "",
+  "interval": 0.4,
+  "crop": [
+    0.48,
+    0.2,
+    0.82,
+    0.64
+  ],
+  "obs_config_path": ""
+}

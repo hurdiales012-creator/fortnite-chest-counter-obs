@@ -1,0 +1,30 @@
+# Configuracion, conteos y registros privados
+datos/
+.demo-data/
+config.local.json
+cuenta.json
+total-nativo.txt
+*.log
+*.tmp
+.env
+.env.*
+# Entorno y archivos temporales
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
+# Grabaciones y repeticiones: no publicar datos del juego
+*.mp4
+*.mkv
+*.replay
+*.ts
+*.m3u8
+# Editor y sistema
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
